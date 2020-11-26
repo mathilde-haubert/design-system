@@ -1,0 +1,30 @@
+{
+    "plugins": [
+        {
+            "name": "zeplin-cli-connect-plugin-vue"
+        }
+    ],
+    "styleguides": ["5d53cdde03703951ee1dacd7"],
+    "components": [
+        {
+            "path": "packages/vue-dot/src/elements/CopyBtn/CopyBtn.vue",
+            "zeplinNames": [
+                "Bouton/Petit/Contour/Principal/Sans icone/Au survol"
+            ],
+            "documentation": {
+                "urlPath": "copy-btn"
+            }
+        }
+    ],
+    "github": {
+        "repository": "assurance-maladie-digital/design-system",
+        "branch": "dev"
+    },
+    "links": [
+        {
+            "name": "Documentation",
+            "type": "documentation",
+            "url": "https://digital-design-system.netlify.app/composants"
+        }
+    ]
+}

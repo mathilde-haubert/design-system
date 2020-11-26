@@ -20,6 +20,7 @@
 		"@typescript-eslint/parser": "4.8.2",
 		"@vue/eslint-config-typescript": "7.0.0",
 		"@vue/test-utils": "1.1.1",
+		"@zeplin/cli": "^1.0.4",
 		"copy-webpack-plugin": "6.3.2",
 		"dayjs": "1.9.6",
 		"deepmerge": "4.2.2",
@@ -43,7 +44,8 @@
 		"vue-template-compiler": "2.6.12",
 		"vuetify": "2.3.19",
 		"vuex": "3.6.0",
-		"webpack": "4.44.2"
+		"webpack": "4.44.2",
+		"zeplin-cli-connect-plugin-vue": "^1.1.0"
 	},
 	"resolutions": {
 		"jest": "26.6.3",

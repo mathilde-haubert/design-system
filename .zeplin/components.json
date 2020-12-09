@@ -1,9 +1,4 @@
 {
-    "plugins": [
-        {
-            "name": "zeplin-cli-connect-plugin-vue"
-        }
-    ],
     "styleguides": ["5d53cdde03703951ee1dacd7"],
     "components": [
         {
